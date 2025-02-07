@@ -1,5 +1,5 @@
 # Cheese
-Welcome to Cheese.
+Welcome to _Cheese_.
 ## Cheese
 Cheese is great. 
 ## Cheese
@@ -16,15 +16,15 @@ Cheese
 [Cheese](https://en.wikipedia.org/wiki/Cheese)
 ## Cheese
 To really explore cheese, there needs to be a good list:
-1. Cheese
-2. Cheese
-3. Cheese
+1. <sub>Cheese</sub>
+2. <sup>Cheese</sup>
+3. <ins>Cheese</ins>
 
 We could potentially also give another, just to contrast and really dive into the deeper meaning of cheese:
-* Cheese  
-  Also Cheese
-* Cheese
-* Cheese
+* *Cheese*  
+  - ~~Not Cheese~~
+* **Cheese**
+* <sup><ins>***Cheese***</ins></sup>
 ## Cheese
 > More cheese is less cheese.
 
